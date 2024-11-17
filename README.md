@@ -1,6 +1,6 @@
-# Trying out Next.js
+# Tutorial project with Next.js
 
-Let's see if this is better than Gatsby.
+A tutorial project for creating a Next.js app and exploring Next.js functionality.
 
 ## References
 
